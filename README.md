@@ -2,10 +2,12 @@ PROJECTS and CHALLENGES
 1.	Analysing User Behaviour on Instagram using Python and MySQL. For visualization using Tableau
 We gain insights into how people use Instagram and how they interact each other.
 a.	Removing Unwanted Columns and Renaming Appropriate Columns for improved analysis using Python. View Projects HERE
+
 b.	Data Analysis using SQL. Different concepts of SQL will be used such as aggregating the data, grouping the data, ordering the data, etc. View Projects HERE
 c.	Visualization using Tableau. Check table HERE
 
-2.	Analyzing Employee Performance Insights for HR Analytics using Python and MySQL. And Power BI for visualization
+
+3.	Analyzing Employee Performance Insights for HR Analytics using Python and MySQL. And Power BI for visualization
 This project will train you how to use SQL to analyze a real-world database, how to extract the most useful information from the dataset, how to pre-process the data using Python for improved performance, and how to use a structured query language to retrieve useful information from the database.
 
 a.	Data Preprocessing using Python.  Handling null values, deletion or transformation of irrelevant values, data type transformation, removing duplicates and data validation. View Projects  HERE
